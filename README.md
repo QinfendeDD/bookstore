@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 使用技术
   - 后台主要是springboot+mybatis+shiro+jsp(jsp已过时)...，前端界面主要使用bootstrap框架搭建，并使用了ueditor富文本编辑器、highcharts图表库 
 ## 系统划分与功能
@@ -20,3 +21,6 @@
   - 方法四: 使用命令运行jar或war，因为也是一个传统JavaWeb项目,前后端不分离，打成jar会无法访问静态资源，所以只能打成war,把WEN-INF下面的东西也打包好)  
     ```java -jar xxx.war```
   - 具体可以自行百度搜索`Spring Boot`项目的启动方式  
+=======
+# bookstore
+>>>>>>> 7a32a6aff98a9360c4487bf0b25d385f7906c194
